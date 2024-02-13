@@ -1,0 +1,14 @@
+li,
+ul,
+p {
+  padding: 0;
+  margin: 0;
+}
+
+image {
+  display: block;
+}
+
+body {
+  padding: 4px;
+}
