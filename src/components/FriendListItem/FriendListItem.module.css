@@ -7,6 +7,10 @@
   border-radius: 5px;
   width: 70px;
   padding: 8px;
+  transition: scale 200ms ease-in-out;
+}
+.container:hover {
+  scale: 1.07;
 }
 .avatar {
   margin-bottom: 8px;
